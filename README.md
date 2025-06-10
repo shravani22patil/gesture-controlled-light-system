@@ -36,7 +36,7 @@ A gesture-controlled lighting system built using Python, OpenCV, Arduino UNO (SM
 - `hello.py`: gesture detection
 - `controller.py`: LED control
 - `requirements.txt`: dependencies
-- `media/`: images or videos (optional)
+- `media/`: images & videos 
 
 ## 🧪 Setup Instructions
 1. Upload `StandardFirmata` to Arduino UNO using Arduino IDE:
@@ -49,8 +49,8 @@ A gesture-controlled lighting system built using Python, OpenCV, Arduino UNO (SM
    ```
 5. Run `hello.py`
 
-## 📷 Demo (Optional)
-Add demo GIF or YouTube link here
+## 📷 Demo 
+Youtube video :https://youtube.com/shorts/kPgqk_JEXTA?si=Mxxy86zFihLvk3_p
 
 ## 🙌 Built by Shravani Patil
 Connect: [LinkedIn](https://www.linkedin.com/in/shravani-patil-38791b286/)
