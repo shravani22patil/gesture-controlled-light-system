@@ -50,8 +50,9 @@ A gesture-controlled lighting system built using Python, OpenCV, Arduino UNO (SM
 5. Run `hello.py`
 
 ## 📷 Demo 
-Demo.gif :https://drive.google.com/file/d/1prIKCMY_lG_7mUgGnLRJwtijHPfAqi07/view?usp=sharing
-Youtube working video :https://youtube.com/shorts/kPgqk_JEXTA?si=Mxxy86zFihLvk3_p
+
+1. Demo.gif :https://drive.google.com/file/d/1prIKCMY_lG_7mUgGnLRJwtijHPfAqi07/view?usp=sharin
+2. Youtube working video :https://youtube.com/shorts/kPgqk_JEXTA?si=Mxxy86zFihLvk3_p
 
 ## 🙌 Built by Shravani Patil
 Connect: [LinkedIn](https://www.linkedin.com/in/shravani-patil-38791b286/)
